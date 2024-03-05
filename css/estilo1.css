@@ -1,0 +1,129 @@
+#contenedor
+{
+    width: 800px;
+    height: 650px;
+    background-color: rgb(62, 160, 79);
+    margin: auto;
+}
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+}
+#oreja1
+{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(87, 60, 19);
+    display: inline-block;
+    position: relative;
+    left: 80px;
+    top: -30px;
+    border-radius: 100%;
+}
+#oreja1-1
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(223, 161, 68);
+    position: relative;
+    left: 18px;
+    top: 15px;
+    border-radius: 100px;
+}
+#oreja2
+{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(87, 60, 19);
+    display: inline-block;
+    position: relative;
+    left: -10px;
+    top: -30px;
+    border-radius: 100%;
+}
+#oreja2-1
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(207, 206, 203);
+    position: relative;
+    margin: auto;
+    border-radius: 100%;
+}
+#cabeza{
+    width: 200px; 
+    height: 200px; 
+    background-color: rgb(87, 60, 19);
+    position: relative;
+    top: 40px;
+    margin: auto;
+    border-radius: 100%;
+
+}
+#ojo1{
+ 
+}
+#ojo1-1{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(22, 22, 21);
+    position: absolute;
+    left: 15px;
+    top: 90px;
+    margin: auto;
+    border-radius: 100%;
+}
+
+
+#mejilla{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(240, 114, 97);
+    position: absolute;
+    left: 75px;
+    top: 120px;
+    margin: auto;
+    border-radius: 100%;
+}
+#cuerpo{
+    width: 300px; 
+    height: 300px;
+    background-color: rgb(87, 60, 19);
+    
+    position: relative;
+    margin: auto;
+    border-radius: 100%;
+}
+#panza{
+    width: 200px; 
+    height: 200px; 
+    background-color: rgb(221, 155, 56);   
+    position: relative;
+    left:-40px;
+    top: 50px;
+    margin: auto;
+    border-radius: 100%;
+}
+
+#mano1{
+    width: 120px;
+    height: 100px;
+    background-color: rgb(197, 129, 27);
+    display: inline-block;
+    position: relative;
+    left: 260px;
+    top: -270px;
+    border-radius: 100%;
+}
+
+#pat1{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(71, 33, 14);
+    display: inline-block;
+    position: relative;
+    left: 170px;
+    top: -100px;
+    border-radius: 100%;
+}
